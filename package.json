@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3"
+  },
+  "name": "billing-system",
+  "description": "��#\u0000 \u0000B\u0000i\u0000l\u0000l\u0000i\u0000n\u0000g\u0000-\u0000s\u0000y\u0000s\u0000t\u0000e\u0000r\u0000m\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
